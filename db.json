@@ -99,56 +99,56 @@
   "categories": [
     {
       "categoryid1": 1.0,
-      "category": "Baby",
+      "category": "Baby"
     },
     
     {
       "categoryid2": 2.0,
-      "category": "Beauty",
+      "category": "Beauty"
     },
     
     {
       "categoryid3": 3.0,
-      "category": "Books",
+      "category": "Books"
     },
     
     {
       "categoryid4": 4.0,
-      "category": "Clothing & Accesories",
+      "category": "Clothing & Accesories"
     },
     
     {
       "categoryid5": 5.0,
-      "category": "Electronics",
+      "category": "Electronics"
     },
     
     {
       "categoryid6": 6.0,
-      "category": "Luggage & Bags",
+      "category": "Luggage & Bags"
     },
     
     {
       "categoryid7": 7.0,
-      "category": "Sports & Outdoors",
+      "category": "Sports & Outdoors"
     },
     
     {
       "categoryid8": 8.0,
-      "category": "Tools & Home Improvement",
+      "category": "Tools & Home Improvement"
     },
         {
       "categoryid9": 9.0,
-      "category": "Toys & Games",
+      "category": "Toys & Games"
     },
     
     {
       "categoryid10": 10.0,
-      "category": "Video Games",
+      "category": "Video Games"
     },
     
     {
       "categoryid11": 11.0,
-      "category": "Watches",
+      "category": "Watches"
     },
        ],
   "profile": {
